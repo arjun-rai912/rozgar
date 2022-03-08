@@ -1,0 +1,16 @@
+{
+  "name": "sih",
+  "version": "1.0.0",
+  "description": "Rozgaar",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js js,hbs"
+  },
+  "author": "The B Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
